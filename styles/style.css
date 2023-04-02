@@ -85,6 +85,7 @@ nav ul li a:hover {
 }
 
 .btn {
+	margin-top: 5px;
 	display: inline-block;
 	padding: 1rem 2rem;
 	background-color: #ff0066;
